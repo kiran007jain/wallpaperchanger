@@ -1,5 +1,5 @@
 # wallpaperchanger
-Changes wallpaper according to TimeZone by Morning, Afternoon and Night.
+Changes wallpaper according to TimeZone by Morning, Afternoon and Night.<br />
 <img src="https://user-images.githubusercontent.com/57556657/205450893-4e07fce6-b1d0-4935-982c-34f67193060f.jpeg" width="128"/>
 
 ![Screenshot_2022-12-03-20-37-53-85_43b335a019563b9ba2ad2d31e410d5c9](https://user-images.githubusercontent.com/57556657/205450893-4e07fce6-b1d0-4935-982c-34f67193060f.jpeg)
